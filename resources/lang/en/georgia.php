@@ -1,0 +1,26 @@
+<?php
+
+return [
+    "top_h1" => "Georgia – Sitting at the border of the Caucasus Mountains, this country offers amazing and fascinating surprises. Landscapes with unique colors, snow-capped mountain peaks, alpine lakes, forests, vineyards, monasteries, antique and troglodytes sites. Customized trips 100% reliable and guaranteed.",
+    "popup_h1" => "About Georgia" ,
+    "popup_p" => "Which destination is on your mind for your next trip? Is it in Europe? Asia?
+If you are still hesitating, you should definitely choose to discover Georgia!
+A halt on the Silk Road, at the crossroads of many civilizations and cultures, its exceptional heritage reflects its blend of unique traditions.<br /><br />
+Adding to this, with its specific alphabet and language, its wonderfully friendly people, its tasty food and last but not least its colorful folklore, you can say Georgia has it all.<br /><br />
+It is as famous for its cave monasteries as for the ancient wine region of Kakheti. And its capital, Tbilisi, is known for its varied architecture and its old town’s labyrinth of cobbled streets. <br /><br />
+Even if to this day Georgia remains a mysterious land of adventure, far from being a highly touristic spot,  visitors are seduced  by its landscapes, churches and monasteries, as they are captivated by its millenary history. <br /><br />
+Despite the country’s modest proportions, landscapes and climates are so varied in Georgia that they go from snowy mountains to valleys where vineyards flourish, and it offers seaside resorts which are very popular in the region. <br /><br />
+Enjoy hiking into its mountains, forests and steppes, strolling along its lakes, exploring its vineyards and tasting its wines which have earned a reputation matching the country’s gastronomy: khinkali, chakapuli, satsivi, lobiani, kubdari, khachapuri are all delicious dishes prepared from meat, vegetables, spices, cheeses ... Their unique flavor reflect the blending of Caucasian, Soviet, European and Oriental cultures.
+A real treat for the palate, even the most demanding! <br /><br />
+Georgia has an incredible number of places for the visitor to discover: The rock-hewn towns of Uplistsikhe (“Fortress of the Lord”)- the oldest one and on UNESCO’s World Heritage list, the underground sanctuaries of Vardzia- a cave-palace-monastery from the 12<sup>th</sup> century, and David Garedja’s monastery complex, built in the 6<sup>th</sup> century, fortresses scattered about everywhere, cities such as Gori – Stalin’s birth place, Mtskheta - the ancient capital, Borjomi and its thermal spa baths, Kutaissi and its market, Stepantsminda and its spectacular surrounding mountains, everything is pleasure to the eyes and the endless list will satisfy the most curious. <br />
+And for trekking enthusiasts, an ascent to the Gergeti glacier offers unbelievable sceneries and unforgettable memories. <br /><br />
+You will also have to stop and spend one or two nights in Tbilisi. The current capital is still dominated by the Narikala fortress which dates back to the 4<sup>th</sup> century.
+Strolling through the streets in the restored old town is a delight. Crossing the Peace Bridge,  a pedestrian walkway between the two banks, which modern architecture made out of steel and glass is illuminated at night, will make you feel you are walking between past and present. The baths area, renowned for its sulphurous springs curing properties, churches around the city, Rustaveli Avenue - the main artery, the gold market, and the old caravanserai renovated and turned into a museum, are among many other wonders to discover.
+Tbilisi is a city where boredom does not exist and is also the land of the famous Golden Fleece legend. A visit to the National Museum will introduce you to the treasures which have nurtured its myth.<br /><br />
+If you are looking for nature or culture, modernity or tradition, you will find much more than you could expect in Georgia. <br />
+Get there and let its charm operate." ,
+    "keywords" => "Orient travel, orient, travel, luxury, luxury travel, luxury tours, first class travel, luxury tours to the east, helicopter travel, helicopter tours, first class train, off road tours, luxury desert tours, VIP travel consultancy, orient travel consultancy, orient travel guide, personalized travel planning, custom trip planning, custom travel, custom tour, customized tour, first class travel to Georgia, high level services in Georgia, luxury tours to Georgia, luxury hotels in Georgia, luxury travel to Georgia, travel specialist for Georgia, VIP travel guide in Georgia, VIP travel  accompaniment in Georgia , first class travel consultancy for Georgia, tour specialist for Georgia, live travel guide in Georgia",
+    "title" => "Trip to Georgia; Customized or self-tailored tours | Orient Travel" ,
+    "meta_description" => "Discover Georgia through thematic tours which are organized to make you see all the best parts and most beautiful corners of this fabulous country. Fascinating tours on the beaten tracks will become unforgetable thanks to friendly local guides. Friendly and warm atmosophere is guaranteed!" ,
+
+];
