@@ -58,16 +58,16 @@
 
                     </div>
                     <div class="field">
-                        <input required="" type="text" class="input" id="name" name="name" placeholder=<?php echo app('translator')->getFromJson('home.name'); ?>>
+                        <input required="" type="text" class="input" id="name" name="name" placeholder="<?php echo app('translator')->getFromJson('home.name'); ?>">
                     </div>
 
                     <div class="field">
-                        <input required="" type="email" class="input" id="email" name="email" placeholder=<?php echo app('translator')->getFromJson('home.email'); ?>>
+                        <input required="" type="email" class="input" id="email" name="email" placeholder="<?php echo app('translator')->getFromJson('home.email'); ?>">
                         <div id="valid_email"></div>
                     </div>
 
                     <div class="field">
-                        <textarea required="" id="message" class="input" name="message" placeholder=<?php echo app('translator')->getFromJson('home.dream'); ?>></textarea>
+                        <textarea required="" id="message" class="input" name="message" placeholder="<?php echo app('translator')->getFromJson('home.dream'); ?>"></textarea>
                     </div>
 
                     <div class="sendfield">
