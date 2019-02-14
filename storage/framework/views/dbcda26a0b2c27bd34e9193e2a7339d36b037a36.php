@@ -3,7 +3,7 @@
             <div id="top-content">
 
                     <div id="fixed-social">
-                        <div><a href="#" class="fixed fixed-facebook" target="_blank"><span>Facebook</span></a></div>
+                        <div><a href="https://www.facebook.com/travel.orienttravel/" class="fixed fixed-facebook" target="_blank"><span>Facebook</span></a></div>
                         <div><a href="#" class="fixed fixed-twitter" target="_blank"><span>Twitter</span></a></div>
                         <div><a href="#" class="fixed fixed-instagram" target="_blank"><span>Instagram</span></a></div>
                     </div>
